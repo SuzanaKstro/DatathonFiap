@@ -3,6 +3,8 @@ Projeto: Previsão de Contratação de Candidatos
 Descrição
 Este projeto tem como foco desenvolver uma solução para prever a contratação de candidatos com base em informações como perfil pessoal, formação acadêmica, idiomas e experiências profissionais. A proposta utiliza algoritmos de aprendizado de máquina para resolver um problema de classificação binária, comparando o desempenho dos modelos Random Forest e XGBoost.
 
+Os dados foram retirados do site: http://www.ipeadata.gov.br/ExibeSerie.aspx?module=m&serid=1650971490&oper=view
+
 Objetivo
 Criar uma ferramenta preditiva que auxilie recrutadores e gestores na identificação de candidatos com maior chance de contratação. A ideia é tornar o processo seletivo mais eficiente, reduzindo o tempo de análise e os custos envolvidos.
 
